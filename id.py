@@ -1,9 +1,3 @@
-# code by Yayan XD
-# my facebook ( https://www.facebook.com/KM39453 )
-
-#      (C) Copyright 407 Authentic Exploit
-#      Rebuild Copyright Can't make u real programmer:)
-#      Coded By Yayan XD.
 
 import os
 try:
@@ -55,9 +49,6 @@ N = '\x1b[0m'    # WARNA MATI
 my_color = [
  P, M, H, K, B, U, O, N]
 warna = random.choice(my_color)
-#  Moch Yayan Juan Alvredo XD.  #
-#------------------------------->
-
 ############################ RESPONSE FACEBOOK ###########################################
 data,data2={},{}
 aman,cp,salah=0,0,0
