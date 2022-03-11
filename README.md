@@ -1,0 +1,2 @@
+# njas
+Spesial coding 
